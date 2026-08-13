@@ -99,5 +99,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 ## Imagen Docker
 
-- DockerHub: https://hub.docker.com/r/TU-USUARIO-DOCKERHUB/curso-devops-lab2
+- DockerHub: https://hub.docker.com/r/sebastianhenriquezgtd/curso-devops-lab2
 - GitHub: https://github.com/sebastianhenriquez-gtd/curso-devops-lab2
